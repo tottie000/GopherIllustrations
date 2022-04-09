@@ -36,21 +36,22 @@
 ### 🍬 Requests for new illustrations
 - There are no plans to add free illustrations at this time.
 - Please requests for illustrations are accepted Gmail or Twitter DM.
-<br>
-
 ### 🍬 Please do keep the line stamps coming!
 - [tottie LINE sticker](https://store.line.me/stickershop/author/137587/ja)
-
----
-# 🎨 About this
-- これはプログラミング言語GoのマスコットキャラクターであるGopherのイラストです。
-
-### 🥁🎉 This illustration is free 
-- ここへアップしてあるイラストはすべて無料でご利用いただけます。
-- ご利用の際は[License / イラストのご利用におけるガイドライン](https://github.com/tottie000/HelloGithub#license--%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AE%E3%81%94%E5%88%A9%E7%94%A8%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3)をご参照の上、クレジットを明記して正しくご利用ください。
+<br>
 <br>
 
-# 📣 License / イラストのご利用におけるガイドライン
+---
+# 🎨 概要
+- これはプログラミング言語GoのマスコットキャラクターであるGopherのイラストです。
+- [English here](https://github.com/tottie000/GopherIllustrations#-about-this)
+
+### 🥁🎉 このイラストは無料です 
+- ここへアップしてあるイラストはすべて無料でご利用いただけます。
+- ご利用の際は[イラストのご利用におけるガイドライン](https://github.com/tottie000/GopherIllustrations#-license--%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AE%E3%81%94%E5%88%A9%E7%94%A8%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3)をご参照の上、クレジットを明記して正しくご利用ください。
+<br>
+
+# 📣 イラストのご利用におけるガイドライン
 ### 🔐 GoとGopherについて
   - プログラミング言語GoのロゴとマスコットキャラクターであるGopherは[Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)ライセンスで保護されています。
   - プログラミング言語Goのブランドガイドラインは以下URLからご確認いただけます。
@@ -64,8 +65,6 @@
 
 - １つの媒体につき、１クレジットを明記してください。
   - 各イラストにクレジットを明記する必要はありません。
-  - 例えばブログの記事内にイラストを4点ご利用いただいた場合、クレジットは記事内へ１クレジット明記してください。
-
 
 ### ⭕️ 以下の範囲でご利用ください。
 - 商業活動以外での、ブログ記事や登壇資料などでのご利用
