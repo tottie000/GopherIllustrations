@@ -49,10 +49,9 @@
 ### 🍬 Requests for new illustrations
 - There are no plans to add free illustrations at this time.
 - Please requests for illustrations are accepted Gmail or Twitter DM.
-### 🍬 Please do keep the line stamps coming!
+### 🍬 Please do keep the line stamps and Goods coming!
 - [tottie LINE sticker](https://store.line.me/stickershop/author/137587/ja)
-
-![Thanks!](https://github.com/tottie000/GopherIllustrations/blob/main/README_Asetts/Thanks.png)
+- [Goods](https://suzuri.jp/tottie)
 <br>
 <br>
 
@@ -101,7 +100,8 @@
 - 現時点では無料イラストの追加予定はありません。
 - イラストのご依頼は Gmail または Twitter の DM にて受け付けています。
 
-### 🍬 LINEスタンプもよろしくね！
+### 🍬 LINEスタンプやグッズもよろしくね！
 - [tottie LINE sticker](https://store.line.me/stickershop/author/137587/ja)
+- [Goods](https://suzuri.jp/tottie)
 
 ![Thanks!](https://github.com/tottie000/GopherIllustrations/blob/main/README_Asetts/Thanks.png)
