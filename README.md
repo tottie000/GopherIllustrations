@@ -24,12 +24,14 @@
 
 
 ### ⭕️ Please use within the following scope.
-- Use in blog posts, speaking materials, etc., outside of commercial activities.
+- Non-commercial use in blog posts
+- Use of materials for speaking engagements and other noncommercial activities
 
 ### ❌ The following uses are not permitted
 - Commercial activities directly using this illustration
 - Creation of T-shirts or other goods using this illustration
 - Altered use of this illustration
+- commercial use
 <br>
 
 # 💙 Others 
@@ -67,12 +69,14 @@
   - 各イラストにクレジットを明記する必要はありません。
 
 ### ⭕️ 以下の範囲でご利用ください。
-- 商業活動以外での、ブログ記事や登壇資料などでのご利用
+- 商業活動以外での、ブログ記事でのご利用
+- 商業活動以外での、登壇資料などでのご利用
 
 ### ❌ 以下の用途ではご利用いただけません。
 - 本イラストを直接使った商業活動
 - 本イラストを利用したTシャツなどのグッズの作成
-- 画像を改変しての利用
+- 本イラストを改変してのご利用
+- 商用利用
 <br>
 
 # 💙 Others 
