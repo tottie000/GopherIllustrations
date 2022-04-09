@@ -52,7 +52,7 @@
 ### 🍬 Please do keep the line stamps coming!
 - [tottie LINE sticker](https://store.line.me/stickershop/author/137587/ja)
 
-![Thanks!](https://github.com/tottie000/GopherIllustrations/blob/main/README_Asetts/README%20images.png)
+![Thanks!](https://github.com/tottie000/GopherIllustrations/blob/main/README_Asetts/Thanks.png)
 <br>
 <br>
 
@@ -103,4 +103,4 @@
 ### 🍬 LINEスタンプもよろしくね！
 - [tottie LINE sticker](https://store.line.me/stickershop/author/137587/ja)
 
-![Thanks!](https://github.com/tottie000/GopherIllustrations/blob/main/README_Asetts/README%20images.png)
+![Thanks!](https://github.com/tottie000/GopherIllustrations/blob/main/README_Asetts/Thanks.png)
