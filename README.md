@@ -1,12 +1,16 @@
-
 # 🔨 Under construction...
 
 ![ComingSoon](https://github.com/tottie000/GopherIllustrations/blob/main/README%20images/ComingSoon.png)
+
 <br>
+
 ---
+
 
 # 🎨 About this
 [日本語はこちら](https://github.com/tottie000/GopherIllustrations#-%E6%A6%82%E8%A6%81)
+
+![AboutThis](https://github.com/tottie000/GopherIllustrations/blob/main/README%20images/AboutThis.png)
 - This is an illustration of Gopher, the mascot of the Go programming language.
 
 ### 🥁🎉 This illustration is free 
@@ -58,6 +62,7 @@
 # 🎨 概要
 [English here](https://github.com/tottie000/GopherIllustrations#-about-this)
 - これはプログラミング言語GoのマスコットキャラクターであるGopherのイラストです。
+
 
 ### 🥁🎉 このイラストは無料です 
 - ここへアップしてあるイラストはすべて無料でご利用いただけます。
