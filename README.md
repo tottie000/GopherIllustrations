@@ -40,6 +40,8 @@
 - Please requests for illustrations are accepted Gmail or Twitter DM.
 ### 🍬 Please do keep the line stamps coming!
 - [tottie LINE sticker](https://store.line.me/stickershop/author/137587/ja)
+
+![Thanks!](https://github.com/tottie000/GopherIllustrations/blob/main/README%20images/README%20images.png)
 <br>
 <br>
 
@@ -89,4 +91,4 @@
 ### 🍬 LINEスタンプもよろしくね！
 - [tottie LINE sticker](https://store.line.me/stickershop/author/137587/ja)
 
-![Image test](https://github.com/tottie000/HelloGithub/blob/main/Test%20illust/testillustrations.jpg)
+![Thanks!](https://github.com/tottie000/GopherIllustrations/blob/main/README%20images/README%20images.png)
