@@ -1,4 +1,7 @@
 # 📣 Guidelines for the use of illustrations
+
+[日本語はこちら](https://github.com/tottie000/GopherIllustrations/tree/main/GopherIllustrations#-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AE%E3%81%94%E5%88%A9%E7%94%A8%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3)
+
 ### 🔐 About Go Language and Gopher
   - The Go Language's logo and mascot character Gopher are covered by the [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/) license.
   - The brand guidelines for the Go language can be found at the following URL
@@ -28,6 +31,9 @@
 <br>
 
 # 📣 イラストのご利用におけるガイドライン
+
+[English here](https://github.com/tottie000/GopherIllustrations/tree/main/GopherIllustrations#-guidelines-for-the-use-of-illustrations)
+
 ### 🔐 GoとGopherについて
   - プログラミング言語GoのロゴとマスコットキャラクターであるGopherは[Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)ライセンスで保護されています。
   - プログラミング言語Goのブランドガイドラインは以下URLからご確認いただけます。
