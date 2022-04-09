@@ -61,6 +61,7 @@
 
 # 🎨 概要
 [English here](https://github.com/tottie000/GopherIllustrations#-about-this)
+![AboutThis](https://github.com/tottie000/GopherIllustrations/blob/main/README_Asetts/AboutThis.png)
 - これはプログラミング言語GoのマスコットキャラクターであるGopherのイラストです。
 
 
