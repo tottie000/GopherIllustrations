@@ -1,16 +1,16 @@
 # 🎨 About this
 - This is an illustration of Gopher, the mascot of the Go programming language.
-- 日本語はこちら
+- [日本語はこちら](https://github.com/tottie000/GopherIllustrations#-about-this-1)
 
 ### 🥁🎉 This illustration is free 
 - All illustrations uploaded here are free of charge.
-- Please refer to [Guidelines for the use of illustrations](https://github.com/tottie000/HelloGithub#license--%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AE%E3%81%94%E5%88%A9%E7%94%A8%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3) when using them, and please use them properly with credit clearly indicated.
+- Please refer to [Guidelines for the use of illustrations](https://github.com/tottie000/GopherIllustrations#-guidelines-for-the-use-of-illustrations) when using them, and please use them properly with credit clearly indicated.
 <br>
 
 # 📣 Guidelines for the use of illustrations
 ### 🔐 About Go Language and Gopher
-  - The Go logo and mascot character Gopher are protected by the [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/) license.
-  - The brand guidelines for the Go programming language can be found at the following URL
+  - The Go Language's logo and mascot character Gopher are covered by the [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/) license.
+  - The brand guidelines for the Go language can be found at the following URL
     - https://go.dev/blog/go-brand
     - https://go.dev/doc/faq#go_or_golang
 
