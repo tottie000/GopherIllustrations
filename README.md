@@ -1,4 +1,48 @@
-# 🎨 About this 
+# 🎨 About this
+- This is an illustration of Gopher, the mascot of the Go programming language.
+- 日本語はこちら
+
+### 🥁🎉 This illustration is free 
+- All illustrations uploaded here are free of charge.
+- Please refer to [Guidelines for the use of illustrations](https://github.com/tottie000/HelloGithub#license--%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AE%E3%81%94%E5%88%A9%E7%94%A8%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3) when using them, and please use them properly with credit clearly indicated.
+<br>
+
+# 📣 Guidelines for the use of illustrations
+### 🔐 About Go Language and Gopher
+  - The Go logo and mascot character Gopher are protected by the [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/) license.
+  - The brand guidelines for the Go programming language can be found at the following URL
+    - https://go.dev/blog/go-brand
+    - https://go.dev/doc/faq#go_or_golang
+
+
+### 🙏🏻 Terms of Use
+  - Please clearly credit Gopher's original author's license and tottie as the author of this illustration. Specifically, please include **the following text** in your blog post or speaking materials. <br>
+`The Go gopher was designed by Renée French. Illustrations by tottie.`<br>
+
+- Please indicate one credit per media.
+  - You do not need to indicate a credit for each illustration.
+
+
+### ⭕️ Please use within the following scope.
+- Use in blog posts, speaking materials, etc., outside of commercial activities.
+
+### ❌ The following uses are not permitted
+- Commercial activities directly using this illustration
+- Creation of T-shirts or other goods using this illustration
+- Altered use of this illustration
+<br>
+
+# 💙 Others 
+### 🍬 Requests for new illustrations
+- There are no plans to add free illustrations at this time.
+- Please requests for illustrations are accepted Gmail or Twitter DM.
+<br>
+
+### 🍬 Please do keep the line stamps coming!
+- [tottie LINE sticker](https://store.line.me/stickershop/author/137587/ja)
+
+---
+# 🎨 About this
 - これはプログラミング言語GoのマスコットキャラクターであるGopherのイラストです。
 
 ### 🥁🎉 This illustration is free 
