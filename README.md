@@ -106,3 +106,5 @@
 - [Goods](https://suzuri.jp/tottie)
 
 ![Thanks!](https://github.com/tottie000/GopherIllustrations/blob/main/README_Asetts/Thanks.png)
+
+©️The Go gopher was designed by Renée French. Illustrations by tottie.

@@ -59,3 +59,7 @@
 - 本イラストを利用したTシャツなどのグッズの作成
 - 本イラストを改変してのご利用
 - 商用利用
+
+![Thanks!](https://github.com/tottie000/GopherIllustrations/blob/main/README_Asetts/Thanks.png)
+
+©️The Go gopher was designed by Renée French. Illustrations by tottie.
