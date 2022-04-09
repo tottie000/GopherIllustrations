@@ -1,6 +1,6 @@
 # 🔨 Under construction...
 
-![ComingSoon](https://github.com/tottie000/GopherIllustrations/blob/main/README%20images/ComingSoon.png)
+![ComingSoon](https://github.com/tottie000/GopherIllustrations/blob/main/README_Asetts/ComingSoon.png)
 
 <br>
 
@@ -10,7 +10,7 @@
 # 🎨 About this
 [日本語はこちら](https://github.com/tottie000/GopherIllustrations#-%E6%A6%82%E8%A6%81)
 
-![AboutThis](https://github.com/tottie000/GopherIllustrations/blob/main/README%20images/AboutThis.png)
+![AboutThis](https://github.com/tottie000/GopherIllustrations/blob/main/README_Asetts/AboutThis.png)
 - This is an illustration of Gopher, the mascot of the Go programming language.
 
 ### 🥁🎉 This illustration is free 
@@ -52,7 +52,7 @@
 ### 🍬 Please do keep the line stamps coming!
 - [tottie LINE sticker](https://store.line.me/stickershop/author/137587/ja)
 
-![Thanks!](https://github.com/tottie000/GopherIllustrations/blob/main/README%20images/README%20images.png)
+![Thanks!](https://github.com/tottie000/GopherIllustrations/blob/main/README_Asetts/README%20images.png)
 <br>
 <br>
 
@@ -103,4 +103,4 @@
 ### 🍬 LINEスタンプもよろしくね！
 - [tottie LINE sticker](https://store.line.me/stickershop/author/137587/ja)
 
-![Thanks!](https://github.com/tottie000/GopherIllustrations/blob/main/README%20images/README%20images.png)
+![Thanks!](https://github.com/tottie000/GopherIllustrations/blob/main/README_Asetts/README%20images.png)
