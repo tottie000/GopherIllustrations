@@ -1,5 +1,5 @@
-
 ![ReadMe](https://github.com/tottie000/GopherIllustrations/blob/main/README_Asetts/PleaseRead.png)
+
 
 # 📣 Guidelines for the use of illustrations
 
@@ -11,9 +11,12 @@
     - https://go.dev/blog/go-brand
     - https://go.dev/doc/faq#go_or_golang
 
+
 ### 🙏🏻 Terms of Use
-  - Please clearly credit Gopher's original author's license and tottie as the author of this illustration. Specifically, please include **the following text** in your blog post or speaking materials. <br>
+  - Please clearly credit Gopher original author's license and this illustration author tottie.
+Specifically **Please include one of the following statements** in your blog post or speaking materials <br>
 `The Go gopher was designed by Renée French. Illustrations by tottie.`<br>
+`©Renée French / tottie.`<br>
 
 - Please indicate one credit per media.
   - You do not need to indicate a credit for each illustration.
@@ -44,8 +47,9 @@
     - https://go.dev/doc/faq#go_or_golang
 
 ### 🙏🏻 ご利用にあたって
-  - Gopherの原作者のライセンスおよび、本イラストの著作者であるtottieのクレジットを明記してください。具体的には **以下の文言** をブログ記事または登壇資料などに入れてご利用ください。 <br>
+  - Gopher原作者のライセンスおよび、本イラスト著作者のクレジットを明記してください。具体的には **以下のいずれかの文言** をブログ記事または登壇資料などに入れてご利用ください。 <br>
 `The Go gopher was designed by Renée French. Illustrations by tottie.`<br>
+`©Renée French / tottie.`<br>
 
 - １つの媒体につき、１クレジットを明記してください。
   - 各イラストにクレジットを明記する必要はありません。
@@ -59,6 +63,8 @@
 - 本イラストを利用したTシャツなどのグッズの作成
 - 本イラストを改変してのご利用
 - 商用利用
+
+
 
 ![Thanks!](https://github.com/tottie000/GopherIllustrations/blob/main/README_Asetts/Thanks.png)
 
