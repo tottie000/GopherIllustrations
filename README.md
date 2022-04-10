@@ -27,6 +27,7 @@ Specifically **Please include one of the following statements** in your blog pos
 - Please indicate one credit per media.You do not need to indicate a credit for each illustration.
 <br>
 
+
 ### ⭕️ Please use within the following scope.
 - Non-commercial use in blog posts
 - Use of materials for speaking engagements and other noncommercial activities
@@ -79,6 +80,7 @@ Specifically **Please include one of the following statements** in your blog pos
 
 - １つの媒体につき、１クレジットを明記してください。各イラストにクレジットを明記する必要はありません。
 <br>
+
 ### ⭕️ 以下の範囲でご利用ください。
 - 商業活動以外での、ブログ記事でのご利用
 - 商業活動以外での、登壇資料などでのご利用
