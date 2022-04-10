@@ -1,12 +1,3 @@
-# 🔨 Under construction...
-
-![ComingSoon](https://github.com/tottie000/GopherIllustrations/blob/main/README_Asetts/ComingSoon.png)
-
-<br>
-<br>
-
----
-
 
 # 🎨 About this
 [日本語はこちら](https://github.com/tottie000/GopherIllustrations#-%E6%A6%82%E8%A6%81)
