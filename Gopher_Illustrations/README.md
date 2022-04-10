@@ -17,9 +17,6 @@
 Specifically **Please include one of the following statements** in your blog post or speaking materials <br>
   - `The Go gopher was designed by Renée French. Illustrations by tottie.`<br>
   - `©tottie / Renée French`<br>
-
-- Please indicate one credit per media.You do not need to indicate a credit for each illustration.
-
 <br>
 
 ### ⭕️ Please use within the following scope.
@@ -50,8 +47,6 @@ Specifically **Please include one of the following statements** in your blog pos
 - Gopher原作者のライセンスおよび、本イラスト著作者のクレジットを明記してください。具体的には **以下のいずれかの文言** をブログ記事または登壇資料などに入れてご利用ください。 <br>
   - `The Go gopher was designed by Renée French. Illustrations by tottie.`<br>
   - `©tottie / Renée French`<br>
-
-- １つの媒体につき、１クレジットを明記してください。各イラストにクレジットを明記する必要はありません。
 <br>
 
 ### ⭕️ 以下の範囲でご利用ください。

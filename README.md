@@ -23,8 +23,6 @@
 Specifically **Please include one of the following statements** in your blog post or speaking materials <br>
   - `The Go gopher was designed by Renée French. Illustrations by tottie.`<br>
   - `©tottie / Renée French`<br>
-
-- Please indicate one credit per media.You do not need to indicate a credit for each illustration.
 <br>
 
 
@@ -47,7 +45,7 @@ Specifically **Please include one of the following statements** in your blog pos
 
 ### 🍬 Please do keep the line stamps and Goods coming!
 - [tottie LINE sticker](https://store.line.me/stickershop/author/137587/ja)
-- [Goods](https://suzuri.jp/tottie)
+- [Goods (SUZURI)](https://suzuri.jp/tottie)
 <br>
 <br>
 
@@ -62,7 +60,7 @@ Specifically **Please include one of the following statements** in your blog pos
 
 ### 🥁🎉 このイラストは無料です 
 - ここへアップしてあるイラストはすべて無料でご利用いただけます。
-- ご利用の際は[イラストのご利用におけるガイドライン](https://github.com/tottie000/GopherIllustrations#-license--%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AE%E3%81%94%E5%88%A9%E7%94%A8%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3)をご参照の上、クレジットを明記して正しくご利用ください。
+- ご利用の際は[イラストのご利用におけるガイドライン](https://github.com/tottie000/GopherIllustrations#-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AE%E3%81%94%E5%88%A9%E7%94%A8%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3)をご参照の上、クレジットを明記して正しくご利用ください。
 <br>
 
 # 📣 イラストのご利用におけるガイドライン
@@ -77,8 +75,6 @@ Specifically **Please include one of the following statements** in your blog pos
 - Gopher原作者のライセンスおよび、本イラスト著作者のクレジットを明記してください。具体的には **以下のいずれかの文言** をブログ記事または登壇資料などに入れてご利用ください。 <br>
   - `The Go gopher was designed by Renée French. Illustrations by tottie.`<br>
   - `©tottie / Renée French`<br>
-
-- １つの媒体につき、１クレジットを明記してください。各イラストにクレジットを明記する必要はありません。
 <br>
 
 ### ⭕️ 以下の範囲でご利用ください。
@@ -96,11 +92,11 @@ Specifically **Please include one of the following statements** in your blog pos
 ### 🍬 新規イラストのリクエストについて
 - 現時点では無料イラストの追加予定はありませんが、時々気まぐれで更新される場合があります。
   - 欲しいイラストの[リクエストはこちら](https://docs.google.com/forms/d/e/1FAIpQLSddFra0YFuKZzK5Blo7V3v4yycc3OQHWvUXP3sAqFkYG4-NAQ/viewform)から受け付けています。
-- イラストのご依頼は Gmail または Twitter の DM にて受け付けています。
+- イラストのお仕事のご依頼は Gmail または Twitter の DM にて受け付けています。
 
 ### 🍬 LINEスタンプやグッズもよろしくね！
 - [tottie LINE sticker](https://store.line.me/stickershop/author/137587/ja)
-- [Goods](https://suzuri.jp/tottie)
+- [Goods (SUZURI)](https://suzuri.jp/tottie)
 
 ![Thanks!](https://github.com/tottie000/GopherIllustrations/blob/main/README_Asetts/Thanks.png)
 
