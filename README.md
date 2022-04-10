@@ -28,8 +28,10 @@
 
 
 ### 🙏🏻 Terms of Use
-  - Please clearly credit Gopher's original author's license and tottie as the author of this illustration. Specifically, please include **the following text** in your blog post or speaking materials. <br>
+  - Please clearly credit Gopher original author's license and this illustration author tottie.
+Specifically **Please include one of the following statements** in your blog post or speaking materials <br>
 `The Go gopher was designed by Renée French. Illustrations by tottie.`<br>
+`©Renée French / tottie.`<br>。
 
 - Please indicate one credit per media.
   - You do not need to indicate a credit for each illustration.
@@ -48,8 +50,10 @@
 
 # 💙 Others 
 ### 🍬 Requests for new illustrations
-- There are no plans to add free illustrations at this time.
+- There are no plans to add free illustrations at this time, but they may be updated from time to time on a whim.
+  - Requests for the illustrations you want are [accepted here.](https://docs.google.com/forms/d/e/1FAIpQLSddFra0YFuKZzK5Blo7V3v4yycc3OQHWvUXP3sAqFkYG4-NAQ/viewform)
 - Please requests for illustrations are accepted Gmail or Twitter DM.
+
 ### 🍬 Please do keep the line stamps and Goods coming!
 - [tottie LINE sticker](https://store.line.me/stickershop/author/137587/ja)
 - [Goods](https://suzuri.jp/tottie)
@@ -79,8 +83,9 @@
 
 
 ### 🙏🏻 ご利用にあたって
-  - Gopherの原作者のライセンスおよび、本イラストの著作者であるtottieのクレジットを明記してください。具体的には **以下の文言** をブログ記事または登壇資料などに入れてご利用ください。 <br>
+  - Gopher原作者のライセンスおよび、本イラスト著作者のクレジットを明記してください。具体的には **以下のいずれかの文言** をブログ記事または登壇資料などに入れてご利用ください。 <br>
 `The Go gopher was designed by Renée French. Illustrations by tottie.`<br>
+`©Renée French / tottie.`<br>。
 
 - １つの媒体につき、１クレジットを明記してください。
   - 各イラストにクレジットを明記する必要はありません。
@@ -98,7 +103,8 @@
 
 # 💙 その他 
 ### 🍬 新規イラストのリクエストについて
-- 現時点では無料イラストの追加予定はありません。
+- 現時点では無料イラストの追加予定はありませんが、時々気まぐれで更新される場合があります。
+  - 欲しいイラストの[リクエストはこちら](https://docs.google.com/forms/d/e/1FAIpQLSddFra0YFuKZzK5Blo7V3v4yycc3OQHWvUXP3sAqFkYG4-NAQ/viewform)から受け付けています。
 - イラストのご依頼は Gmail または Twitter の DM にて受け付けています。
 
 ### 🍬 LINEスタンプやグッズもよろしくね！
