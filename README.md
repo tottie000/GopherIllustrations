@@ -1,13 +1,13 @@
 
 # 🎨 About this
-[日本語はこちら](https://github.com/tottie000/GopherIllustrations#-%E6%A6%82%E8%A6%81)
+[日本語はこちら](#-%E6%A6%82%E8%A6%81)
 
-![AboutThis](https://github.com/tottie000/GopherIllustrations/blob/main/README_Asetts/AboutThis.png)
+![AboutThis](./README_Asetts/AboutThis.png)
 - This is an illustration of Gopher, the mascot of the Go programming language.
 
 ### 🥁🎉 This illustration is free 
 - All illustrations uploaded here are free of charge.
-- Please refer to [Guidelines for the use of illustrations](https://github.com/tottie000/GopherIllustrations#-guidelines-for-the-use-of-illustrations) when using them, and please use them properly with credit clearly indicated.
+- Please refer to [Guidelines for the use of illustrations](#-guidelines-for-the-use-of-illustrations) when using them, and please use them properly with credit clearly indicated.
 <br>
 
 # 📣 Guidelines for the use of illustrations
@@ -53,14 +53,13 @@ Specifically **Please include one of the following statements** in your blog pos
 <br>
 
 # 🎨 概要
-[English here](https://github.com/tottie000/GopherIllustrations#-about-this)
-![AboutThis](https://github.com/tottie000/GopherIllustrations/blob/main/README_Asetts/AboutThis.png)
+[English here](#-about-this)
+![AboutThis](./README_Asetts/AboutThis.png)
 - これはプログラミング言語GoのマスコットキャラクターであるGopherのイラストです。
-
 
 ### 🥁🎉 このイラストは無料です 
 - ここへアップしてあるイラストはすべて無料でご利用いただけます。
-- ご利用の際は[イラストのご利用におけるガイドライン](https://github.com/tottie000/GopherIllustrations#-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AE%E3%81%94%E5%88%A9%E7%94%A8%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3)をご参照の上、クレジットを明記して正しくご利用ください。
+- ご利用の際は[イラストのご利用におけるガイドライン](#-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AE%E3%81%94%E5%88%A9%E7%94%A8%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3)をご参照の上、クレジットを明記して正しくご利用ください。
 <br>
 
 # 📣 イラストのご利用におけるガイドライン
@@ -98,6 +97,6 @@ Specifically **Please include one of the following statements** in your blog pos
 - [tottie LINE sticker](https://store.line.me/stickershop/author/137587/ja)
 - [Goods (SUZURI)](https://suzuri.jp/tottie)
 
-![Thanks!](https://github.com/tottie000/GopherIllustrations/blob/main/README_Asetts/Thanks.png)
+![Thanks!](./README_Asetts/Thanks.png)
 
 ©️The Go gopher was designed by Renée French. Illustrations by tottie.
